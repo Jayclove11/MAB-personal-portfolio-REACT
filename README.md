@@ -9,7 +9,7 @@ npm run dev
 # or
 yarn dev
 ```
-<img src="public/thumbnail.png" alt="Alt text" title="Optional title">
+<img src="public/thumbnail.png" alt="thumbnail" title="thumbnail">
 
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
