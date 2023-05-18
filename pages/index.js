@@ -51,7 +51,7 @@ export default function Home() {
                             <Image className="avatar-img rounded-circle border border-3 border-white bg-dark" src={avatar} width={170} height={170} alt="avatar"/>
                         </div>
                         <div className="pt-3">
-                            <h2>Mohammad ali baymani</h2>
+                            <h2>Jessica Clemente-Henderson</h2>
                             <div><a href="#" className="h4 text-gradient">Frontend Developer</a></div>
                             <div className="d-flex gap-2 justify-content-center mt-2">
                                 <a href="https://instagram.com/mabaaaam" target="_blank" rel="noreferrer" className="bg-icon">
