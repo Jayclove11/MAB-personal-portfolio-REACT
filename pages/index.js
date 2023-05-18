@@ -52,12 +52,12 @@ export default function Home() {
                         </div>
                         <div className="pt-3">
                             <h2>Jessica Clemente-Henderson</h2>
-                            <div><a href="#" className="h4 text-gradient">Frontend Developer</a></div>
+                            <div><a href="#" className="h4 text-gradient">Packaging & Web Developer</a></div>
                             <div className="d-flex gap-2 justify-content-center mt-2">
-                                <a href="https://instagram.com/mabaaaam" target="_blank" rel="noreferrer" className="bg-icon">
+                                <a href="https://www.instagram.com/jayclove11/" target="_blank" rel="noreferrer" className="bg-icon">
                                 <AiFillInstagram className="fs-2 cursor-pointer "/> 
                                 </a>
-                                <a className="bg-icon" href="https://www.linkedin.com/in/mohammad-ali-baymani" target="_blank" rel="noreferrer"> 
+                                <a className="bg-icon" href="#" target="_blank" rel="noreferrer"> 
                                 <AiFillLinkedin className="fs-2 cursor-pointer "/>
                                 </a>
                                 <a href="https://github.com/buymoney1" target="_blank"  rel="noreferrer" className="bg-icon">
