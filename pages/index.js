@@ -58,10 +58,10 @@ export default function Home() {
                                 <AiFillInstagram className="fs-2 cursor-pointer "/> 
                                 </a>
                                 <a className="bg-icon" href="#" target="_blank" rel="noreferrer"> 
-                                <AiFillLinkedin className="fs-2 cursor-pointer "/>
+                                <AiFillLinkedin className="https://www.linkedin.com/in/jessica-clemente-henderson-99843117/"/>
                                 </a>
                                 <a href="https://github.com/buymoney1" target="_blank"  rel="noreferrer" className="bg-icon">
-                                <AiFillGithub className="fs-2 cursor-pointer "/>
+                                <AiFillGithub className="https://github.com/Jayclove11"/>
                                 </a>
                             </div>
                         </div>
