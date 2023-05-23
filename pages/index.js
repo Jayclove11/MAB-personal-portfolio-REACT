@@ -123,36 +123,33 @@ export default function Home() {
                                         <div>
                                             <a href="#" className="h2 text-gradient">Clients</a>
                                         </div>
-                                    <div className="col-6 col-md-3 col-lg-2">
-  <div className="col-6 col-md-3 col-lg-2">
-    <div className="card">
-        <div className="card-body text-center">
-            <div className="avatar avatar-lg">
-                <img className="avatar-img rounded-circle" src="google.png" width={90} height={90} alt="google logo" />
-            </div>
-            <div className="pt-3">
-                <h6 className="m-0">
-                    <a href="#" className="stretched-link text-reset">Google</a>
-                </h6>
-            </div>
-        </div>
-    </div>
-</div>
-<div className="col-6 col-md-3 col-lg-2">
-    <div className="card">
-        <div className="card-body text-center">
-            <div className="avatar avatar-lg">
-                <img className="avatar-img rounded-circle" src="apple.png" width={90} height={90} alt="apple logo" />
-            </div>
-            <div className="pt-3">
-                <h6 className="m-0">
-                    <a href="#" className="stretched-link text-reset">Apple</a>
-                </h6>
-            </div>
-        </div>
-    </div>
-</div>
-<div className="tab-pane fade show " id="user-items" role="tabpanel" aria-labelledby="user-items-tab">
+                                        <div className="col-6 col-md-3 col-lg-2">
+                                            <div className="card">
+                                                <div className="card-body text-center">
+                                                    <div className="avatar avatar-lg">
+                                                        <Image className="avatar-img rounded-circle" src={google} width={90} height={90} alt="google logo"/>
+                                                    </div>
+                                                    <div className="pt-3">
+                                                        <h6 className="m-0"><a href="#" className="stretched-link text-reset">Google</a></h6>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div className="col-6 col-md-3 col-lg-2">
+                                            <div className="card">
+                                                <div className="card-body text-center">
+                                                    <div className="avatar avatar-lg">
+                                                        <Image className="avatar-img rounded-circle" src={apple} width={90} height={90} alt="apple logo"/>
+                                                    </div>
+                                                    <div className="pt-3">
+                                                        <h6 className="m-0"><a href="#" className="stretched-link text-reset">Apple</a></h6>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                            </div>
+                            <div className="tab-pane fade show " id="user-items" role="tabpanel" aria-labelledby="user-items-tab">
                                 <div className="row gy-4">
                                     <div className="col-md-4 col-sm-6 col-lg-3">
                                         <div className="product-card">
