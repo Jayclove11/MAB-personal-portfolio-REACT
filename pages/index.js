@@ -48,7 +48,7 @@ export default function Home() {
                 <div className="container">
                     <div className="mt-n10 text-center pb-6">
                         <div className="avatar avatar-xxxl mx-auto">
-                            <Image className="avatar-img rounded-circle border border-3 border-white bg-dark" src={image} width={170} height={170} alt="avatar"/>
+                            <Image className="avatar-img rounded-circle border border-3 border-white bg-dark" src={imageURL} width={170} height={170} alt="me"/>
                         </div>
                         <div className="pt-3">
                             <h2>Jessica Clemente-Henderson</h2>
