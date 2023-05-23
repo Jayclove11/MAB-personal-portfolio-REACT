@@ -124,6 +124,7 @@ export default function Home() {
                                             <a href="#" className="h2 text-gradient">Clients</a>
                                         </div>
                                     <div className="col-6 col-md-3 col-lg-2">
+<div className="col-6 col-md-3 col-lg-2">
     <div className="card">
         <div className="card-body text-center">
             <div className="avatar avatar-lg">
@@ -150,8 +151,7 @@ export default function Home() {
             </div>
         </div>
     </div>
-</div>
-                            <div className="tab-pane fade show " id="user-items" role="tabpanel" aria-labelledby="user-items-tab">
+</div><div className="tab-pane fade show " id="user-items" role="tabpanel" aria-labelledby="user-items-tab">
                                 <div className="row gy-4">
                                     <div className="col-md-4 col-sm-6 col-lg-3">
                                         <div className="product-card">
