@@ -3,7 +3,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import { useState } from "react";
 import Script from 'next/script'
 import Image from "next/image";
-import avatar from "../public/me.png";
+import avatar from "https://github.com/Jayclove11/MAB-personal-portfolio-REACT/blob/Jessica/public/me.png";
 import web from "../public/web.jpg";
 import how from "../public/how-to-build-a-web-app.jpg";
 import google from "../public/google.png";
