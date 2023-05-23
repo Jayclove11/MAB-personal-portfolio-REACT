@@ -246,9 +246,15 @@ export default function Home() {
                                         <a href="#" className="h2 text-gradient">Education</a>
                                     </div>
                                     <ul className="ms-4">
-                                        <li className="h5"> Bachelor Software Engineering</li>
-                                        <p>2018 - 2022</p>
-                                    </ul>   
+  <li className="h5">School of Visual Arts</li>
+  <p>June 2004 - July 2004</p>
+  <p>Color theory</p>
+</ul>
+<ul className="ms-4">
+  <li className="h5">Web application design</li>
+  <p>Paier College</p>
+  <p>Jan 2023 - Present</p>
+</ul>
                                     
                                     <div>
                                         <a href="#" className="h2 text-gradient">Experience</a>
