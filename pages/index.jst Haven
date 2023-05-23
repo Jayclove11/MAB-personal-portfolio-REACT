@@ -330,7 +330,7 @@ export default function Home() {
                                         </div>
                                         <div className="col ps-3">
                                             <h6 className="mb-1">Email</h6>
-                                            <p>buymoney.10@gmail.com</p>
+                                            <p>jchsweetcreations@gmail.com</p>
                                         </div>
                                     </div>
                                 </div>  
@@ -341,7 +341,7 @@ export default function Home() {
                                         </div>
                                         <div className="col ps-3">
                                             <h6 className="mb-1">Phone Number</h6>
-                                            <p>098 921 403 2487</p>
+                                            <p>347-726-0101</p>
                                         </div>
                                     </div>
                                 </div> 
@@ -352,7 +352,7 @@ export default function Home() {
                                         </div>
                                         <div className="col ps-3">
                                             <h6 className="mb-1">Address</h6>
-                                            <p>Shiraz , Iran</p>
+                                            <p>West Haven, CT</p>
                                         </div>
                                     </div>
                                 </div> 
