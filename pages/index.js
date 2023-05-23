@@ -50,7 +50,7 @@ export default function Home() {
       <div className="avatar avatar-xxxl mx-auto">
         <Image
           className="avatar-img rounded-circle border border-3 border-white bg-dark"
-          src="https://raw.githubusercontent.com/username/repository-name/branch-name/path/to/me.png"
+          src="https://github.com/Jayclove11/MAB-personal-portfolio-REACT/blob/Jessica/public/me.png"
           width={170}
           height={170}
           alt="me.png"
