@@ -269,10 +269,18 @@ export default function Home() {
                                         <a href="#" className="h2 text-gradient">Experience</a>
                                     </div>
                                     <ul className="ms-4">
-                                        <li className="h5">Frontend Developer</li>
-                                        <p className="h6 mb-1">2018 - Present</p>
-                                        <p>FrontEnd Angular Developer</p>
+                                        <li className="h5">Packaging Designer</li>
+                                        <p className="h6 mb-1">London Luxury LLC</p>
+                                        <p>May 2019 - November 2022</p>
                                     </ul> 
+<ul className="ms-4">
+    <li className="h5">Senior Packaging Designer</li>
+    <p className="h6 mb-1">SureFit Inc.</p>
+    <p>June 2015 - May 2019</p>
+    <li>Design and develop new or improve existing packaging artwork and labels, and work with factories to create packaging samples</li>
+    <li>Create packaging concepts for licensed brands and develop in-store displays, planograms, POV ads, and POP marketing</li>
+    <li>Develop and enhance brand assets including style and usage guides, and implement them across diverse product categories</li>
+</ul>                                 
 
                                     <div>
                                         <a href="#" className="h2 text-gradient">Skills</a>
