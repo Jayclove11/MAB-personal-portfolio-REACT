@@ -241,119 +241,56 @@ export default function Home() {
                             </div>
                             <div className="tab-pane fade" id="user-activity" role="tabpanel" aria-labelledby="user-activity-tab">
 
-                                <div className="row gy-4 w-100">
-                                    <div>
-                                        <a href="#" className="h2 text-gradient">Education</a>
-                                    </div>
-                                    <ul className="ms-4">
-  <li className="h5">School of Visual Arts</li>
-  <p>June 2004 - July 2004</p>
-  <p>Color theory</p>
-</ul>
-<ul className="ms-4">
-  <li className="h5">Web application design</li>
-  <p>Paier College</p>
-  <p>Jan 2023 - Present</p>
-</ul>
-                                    
-                                    <div>
-                                        <a href="#" className="h2 text-gradient">Experience</a>
-                                    </div>
-                                    <ul className="ms-4">
-                                        <li className="h5">Frontend Developer</li>
-                                        <p className="h6 mb-1">2018 - Present</p>
-                                        <p>FrontEnd Angular Developer</p>
-                                    </ul> 
-
-                                    <div>
-                                        <a href="#" className="h2 text-gradient">Skills</a>
-                                        <div className="row">
-                                            <div className="col-6 col-md-3 col-lg-2 mt-4">
-                                                <div className="card">
-                                                    <div className="card-body text-center">
-                                                        <div className="avatar avatar-lg">
-                                                            <Image className="avatar-img rounded-circle" src={angular} width={90} height={90} alt="angular logo"/>
-                                                        </div>
-                                                        <div className="pt-3">
-                                                            <h6 className="m-0"><a href="#" className="stretched-link text-reset">Angular</a></h6>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div className="col-6 col-md-3 col-lg-2 mt-4">
-                                                <div className="card">
-                                                    <div className="card-body text-center">
-                                                        <div className="avatar avatar-lg">
-                                                            <Image className="avatar-img rounded-circle" src={javascript} width={90} height={90} alt="javascript logo"/>
-                                                        </div>
-                                                        <div className="pt-3">
-                                                            <h6 className="m-0"><a href="#" className="stretched-link text-reset">JavaScript</a></h6>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div className="col-6 col-md-3 col-lg-2 mt-4">
-                                                <div className="card">
-                                                    <div className="card-body text-center">
-                                                        <div className="avatar avatar-lg">
-                                                            <Image className="avatar-img rounded-circle" src={ts} width={90} height={90} alt="TypeScript logo"/>
-                                                        </div>
-                                                        <div className="pt-3">
-                                                            <h6 className="m-0"><a href="#" className="stretched-link text-reset">TypeScript</a></h6>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        
-                                        </div>
-                                    </div>
-                                 </div>
-                             </div>
-                             <div className="tab-pane fade show " id="Contact" role="tabpanel" aria-labelledby="Contact-tab">
-                                <div className="mt-2">
-                                    <a href="#" className="h2 text-gradient">Contact</a>
-                                </div>
-                            <div className="row">
-                                <div className="col-md-6 col-lg-4 mt-4">
-                                    <div className="d-flex p-3 border border-gray-200 rounded-3">
-                                        <div className="avatar avatar-lg">
-                                            <Image className="avatar-img rounded-circle" src={email} width={50} height={50} alt="contact me with email"/>
-                                        </div>
-                                        <div className="col ps-3">
-                                            <h6 className="mb-1">Email</h6>
-                                            <p>buymoney.10@gmail.com</p>
-                                        </div>
-                                    </div>
-                                </div>  
-                                <div className="col-md-6 col-lg-4 mt-4">
-                                    <div className="d-flex p-3 border border-gray-200 rounded-3">
-                                        <div className="avatar avatar-lg">
-                                            <Image className="avatar-img rounded-circle" src={phone} width={50} height={50} alt="contact me with phone number"/>
-                                        </div>
-                                        <div className="col ps-3">
-                                            <h6 className="mb-1">Phone Number</h6>
-                                            <p>098 921 403 2487</p>
-                                        </div>
-                                    </div>
-                                </div> 
-                                <div className="col-md-6 col-lg-4 mt-4">
-                                    <div className="d-flex p-3 border border-gray-200 rounded-3">
-                                        <div className="avatar avatar-lg">
-                                            <Image className="avatar-img rounded-circle" src={address} width={50} height={50} alt="address"/>
-                                        </div>
-                                        <div className="col ps-3">
-                                            <h6 className="mb-1">Address</h6>
-                                            <p>Shiraz , Iran</p>
-                                        </div>
-                                    </div>
-                                </div> 
-                            </div> 
-                            </div>
-                        </div>
-                    </div>
-                </div>
-          </section>
-        </main>
+                              <div className="row gy-4 w-100">
+  <div>
+    <a href="#" className="h2 text-gradient">Education</a>
+  </div>
+  <ul className="ms-4">
+    <li className="h5">Web Application Design</li>
+    <p>Paier College</p>
+    <p>Jan 2023 - Present</p>
+  </ul>
+  <ul className="ms-4">
+    <li className="h5">Color Theory</li>
+    <p>School of Visual Arts</p>
+    <p>June 2004 - July 2004</p>
+  </ul>
+  <ul className="ms-4">
+    <li className="h5">CAD Design</li>
+    <p>Fashion Institute of Technology</p>
+    <p>June 2001 - July 2001</p>
+  </ul>
+  <ul className="ms-4">
+    <li className="h5">A.A.S Fashion Merchandising and Marketing</li>
+    <p>Kingsborough Community College</p>
+    <p>June 1999 - July 2001</p>
+  </ul>
+  <div>
+    <a href="#" className="h2 text-gradient">Experience</a>
+  </div>
+  <ul className="ms-4">
+    <li className="h5">Packaging Designer</li>
+    <p className="h6 mb-1">London Luxury LLC</p>
+    <p>May 2019 - November 2022</p>
+  </ul>
+  <ul className="ms-4">
+    <li className="h5">Senior Packaging Designer</li>
+    <p className="h6 mb-1">SureFit Inc.</p>
+    <p>June 2015 – May 2019</p>
+  </ul>
+  <ul className="ms-4">
+    <li className="h5">Creative Director</li>
+    <p className="h6 mb-1">Athalon Sportgear</p>
+    <p>February 2013 – June 2015</p>
+  </ul>
+  <ul className="ms-4">
+    <li className="h5">Graphic Designer</li>
+    <p className="h6 mb-1">Intradeco Apparel</p>
+    <p>August 2000 - February 2013</p>
+  </ul>
+  {/* Rest of the code */}
+</div>
+<main>
 
         <footer className="footer footer-bg">
             <hr className="m-0 border-gray-100 opacity-1"/>
