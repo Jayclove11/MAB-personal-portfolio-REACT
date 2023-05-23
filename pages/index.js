@@ -124,7 +124,6 @@ export default function Home() {
                                             <a href="#" className="h2 text-gradient">Clients</a>
                                         </div>
                                     <div className="col-6 col-md-3 col-lg-2">
-<div className="col-6 col-md-3 col-lg-2">
     <div className="card">
         <div className="card-body text-center">
             <div className="avatar avatar-lg">
