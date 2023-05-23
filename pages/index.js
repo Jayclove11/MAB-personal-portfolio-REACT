@@ -43,13 +43,19 @@ export default function Home() {
         <main>
           <div className="min-height-300 bg-cover bg-no-repeat bg-center bg-img" >
                 <div className="header-height-bar"></div>
-          </div>
-          <section className="section pt-0">
-                <div className="container">
-                    <div className="mt-n10 text-center pb-6">
-                        <div className="avatar avatar-xxxl mx-auto">
-                            <Image className="avatar-img rounded-circle border border-3 border-white bg-dark" src={imageURL} width={170} height={170} alt="me.png"/>
-                        </div>
+</div>
+<section className="section pt-0">
+  <div className="container">
+    <div className="mt-n10 text-center pb-6">
+      <div className="avatar avatar-xxxl mx-auto">
+        <Image
+          className="avatar-img rounded-circle border border-3 border-white bg-dark"
+          src="https://raw.githubusercontent.com/username/repository-name/branch-name/path/to/me.png"
+          width={170}
+          height={170}
+          alt="me.png"
+        />
+      </div>
                         <div className="pt-3">
                             <h2>Jessica Clemente-Henderson</h2>
                             <div><a href="#" className="h4 text-gradient">Packaging & Web Developer</a></div>
