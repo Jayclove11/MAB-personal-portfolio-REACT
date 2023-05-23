@@ -290,7 +290,6 @@ export default function Home() {
   </ul>
   {/* Rest of the code */}
 </div>
-<main>
 
         <footer className="footer footer-bg">
             <hr className="m-0 border-gray-100 opacity-1"/>
