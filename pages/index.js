@@ -288,7 +288,7 @@ export default function Home() {
     <p className="h6 mb-1">Intradeco Apparel</p>
     <p>August 2000 - February 2013</p>
   </ul>
-  {/* Rest of the code */}
+  
 </div>
 
         <footer className="footer footer-bg">
