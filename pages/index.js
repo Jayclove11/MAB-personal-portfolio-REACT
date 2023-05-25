@@ -48,9 +48,9 @@ export default function Home() {
   <div className="container">
     <div className="mt-n10 text-center pb-6">
       <div className="avatar avatar-xxxl mx-auto">
-        <Image
+        <img
           className="avatar-img rounded-circle border border-3 border-white bg-dark"
-          src="https://github.com/Jayclove11/MAB-personal-portfolio-REACT/blob/Jessica/public/me.png"
+          src="https://raw.githubusercontent.com/Jayclove11/MAB-personal-portfolio-REACT/Jessica/public/me.png"
           width={170}
           height={170}
           alt="me.png"
