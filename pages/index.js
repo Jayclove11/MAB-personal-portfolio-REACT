@@ -119,8 +119,20 @@ export default function Home() {
                                                     <Image className="avatar-img rounded-circle" src={how} width={90} height={90} alt="Web Development"/>
                                                 </div>
                                                 <div className="col ps-3">
-                                                    <h6 className="mb-1">Web App</h6>
-                                                    <p>High-quality development of sites at the professional level. </p>
+                                                    <h6 className="mb-1">Packaging Design</h6>
+                                                    <p>Create packaging concepts for products and develop in-store displays & planograms. </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div className="col-md-6 col-lg-4">
+                                            <div className="d-flex p-3 border border-gray-200 rounded-3">
+                                                <div className="avatar avatar-lg">
+                                                    <Image className="avatar-img rounded-circle" src={web} width={60} height={60} title="" alt="Web Development"/>
+                                                </div>
+                                                <div className="col ps-3">
+                                                <div className="col ps-3">
+                                                    <h6 className="mb-1">Social Media Content</h6>
+                                                    <p>Capture the attention of users and foster communication, sharing, and connection within online communities. </p>
                                                 </div>
                                             </div>
                                         </div>
