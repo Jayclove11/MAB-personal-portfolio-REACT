@@ -3,7 +3,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import { useState } from "react";
 import Script from 'next/script'
 import Image from "next/image";
-import avatar from "https://github.com/Jayclove11/MAB-personal-portfolio-REACT/blob/Jessica/public/me.png";
+import avatar from "../public/avatar1.webP";
 import web from "../public/web.jpg";
 import how from "../public/how-to-build-a-web-app.jpg";
 import google from "../public/google.png";
@@ -49,11 +49,11 @@ export default function Home() {
     <div className="mt-n10 text-center pb-6">
       <div className="avatar avatar-xxxl mx-auto">
         <img
-          className="avatar-img rounded-circle border border-3 border-white bg-dark"
-          src="https://raw.githubusercontent.com/Jayclove11/MAB-personal-portfolio-REACT/Jessica/public/me.png"
+          className="avatar1-img rounded-circle border border-3 border-white bg-dark"
+          src="avatar1"
           width={170}
           height={170}
-          alt="me.png"
+          alt="avatar1.webP"
         />
       </div>
                         <div className="pt-3">
